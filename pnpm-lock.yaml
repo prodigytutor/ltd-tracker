@@ -154,8 +154,8 @@ importers:
         specifier: ^8.10.0
         version: 8.10.0(eslint@8.56.0)
       lefthook:
-        specifier: ^1.5.5
-        version: 1.6.15
+        specifier: ^1.7.12
+        version: 1.7.12
       prettier:
         specifier: 3.2.5
         version: 3.2.5
@@ -3144,48 +3144,48 @@ packages:
   leac@0.6.0:
     resolution: {integrity: sha512-y+SqErxb8h7nE/fiEX07jsbuhrpO9lL8eca7/Y1nuWV2moNlXhyd59iDGcRf6moVyDMbmTNzL40SUyrFU/yDpg==}
 
-  lefthook-darwin-arm64@1.6.15:
-    resolution: {integrity: sha512-PQKFipNueV2i/W3XI+fDDwzV3YdnJ1AqwIP2BwDpzlSJtQQarsAG7lRvFdjkPGplVLqWoohTQa1/ooBmg+g3dw==}
+  lefthook-darwin-arm64@1.7.12:
+    resolution: {integrity: sha512-CjbV968FMFJWBe/5UA4H3DiKH5TFCh0449pfr9NTt14r05FIg6YzLf5h97CYlDz3b0Bx8Iz8ZqoguE1dFrYpsg==}
     cpu: [arm64]
     os: [darwin]
 
-  lefthook-darwin-x64@1.6.15:
-    resolution: {integrity: sha512-dNAZp281EJ1vyovszftVO+uk/xJZbomrtfuQeZ3tAk8Xybu6b4+XSoBklH5eRfl46/TWUNVkSF5owYG6+ZtvIA==}
+  lefthook-darwin-x64@1.7.12:
+    resolution: {integrity: sha512-EEwh5zU65MwfwkGOpBW7rd0Ldg7Ef17VoFUQ/pr408acLq7BvNOrrFga/RNUvB5Hsaa7eNjBbv0AG02qE3X/ZA==}
     cpu: [x64]
     os: [darwin]
 
-  lefthook-freebsd-arm64@1.6.15:
-    resolution: {integrity: sha512-GWGt5jDLOcICjsoPZV4tFjjQJ3v9uNqHXg80QXx+Pb7HSqLFp3OnUEfjV2IO27lOln7+AMTF6WWigJl/NKllKw==}
+  lefthook-freebsd-arm64@1.7.12:
+    resolution: {integrity: sha512-BznKfuFw9lWhqJFrI+ci2EyS5vvfEWTcsISTq0o4a/kR058stK/6B+i+XnTHrHsiOjQbLJ42wcFgvUEFmio6yw==}
     cpu: [arm64]
     os: [freebsd]
 
-  lefthook-freebsd-x64@1.6.15:
-    resolution: {integrity: sha512-803r+OYRpY5CBa8LU83EINO+Mi5k7rfflApMJuEIzcH1pFlEjbLttGy2hJX19m1kTKzkz/HuzFl6znbkmZGttw==}
+  lefthook-freebsd-x64@1.7.12:
+    resolution: {integrity: sha512-9+I0xakvqpAIxhPb5ON6a5v/Iyl+gahJi+ogoEDNqlg3zj4otZspOvdiAsLWBAaXI+yFQftOHBM8940Ki5RB0A==}
     cpu: [x64]
     os: [freebsd]
 
-  lefthook-linux-arm64@1.6.15:
-    resolution: {integrity: sha512-4rATbRhhBj4VNnvAEGRXvQL+POO4xwdUdCc2aSBcKdRFnabYabWm9ebSp55id7nDt3mVf7FBKDCl7A3kzUxehQ==}
+  lefthook-linux-arm64@1.7.12:
+    resolution: {integrity: sha512-FC+4cyz2CUBVL4BnDwnAzQPdBHM80O2TM53qoT1R3sn9LbWwcpnwdXi86NhVD0I7+vKg6rGUKgOQMTZfSe+sDg==}
     cpu: [arm64]
     os: [linux]
 
-  lefthook-linux-x64@1.6.15:
-    resolution: {integrity: sha512-VhDL/po/EujilZKq14frjzOgApHrI1bNfghvuWkNz+5LGphe1/iSXV1DKDDOrGprl/vp2p+QUaJW8HMKBiKgTw==}
+  lefthook-linux-x64@1.7.12:
+    resolution: {integrity: sha512-BH9peuKjx2ikOxjnohdAH4ocRfC2NZQTXrJXsAdPOFja1iNHzBwpZe+/x+g8fO8a3WVrmBWad3814Hb/oGCICA==}
     cpu: [x64]
     os: [linux]
 
-  lefthook-windows-arm64@1.6.15:
-    resolution: {integrity: sha512-0HcX/tPEktPjkFVrAIUXzlWIN5VhkBqbYl7xofWoYMjdYetFU2dvC2UDqp/ENVA/PxelszgTVLUVaI0RVJHDoA==}
+  lefthook-windows-arm64@1.7.12:
+    resolution: {integrity: sha512-GlCNSpXAiBcCQ8jtcFGxkxGzqnsPzGWbx9HTYO7Xz1QjW56de311rdntyVIRl48nQ+Q76fVyEKAtsyQczvRN6w==}
     cpu: [arm64]
     os: [win32]
 
-  lefthook-windows-x64@1.6.15:
-    resolution: {integrity: sha512-oBTfUbJRNOSuR1XsS5frGPCY8p74KXNVOuMX+Oun6kyBSutqe3kmafZ3nytbugJdzGx4bGfYxLISM8EoEkgThA==}
+  lefthook-windows-x64@1.7.12:
+    resolution: {integrity: sha512-9GeeQVUX7R8irJ5mf0Zzxn74ZTpy1LHqIGPRAmn9ELtkVdne/DGpCcGyKGVoJFbMInEaeDHGOnVjeQ9kgWB8Fw==}
     cpu: [x64]
     os: [win32]
 
-  lefthook@1.6.15:
-    resolution: {integrity: sha512-Jjsz5ln/khEBEWH0ZWtK4A14F5aIGk3iwfyHpqqnxpF79OQR8MYCUN2VzpTk5XgzbokMi/M7CJ17/LPAYBRUEw==}
+  lefthook@1.7.12:
+    resolution: {integrity: sha512-kZQQAeL4JZbsADqzK5YMP7M0aadGVDha7oo+4exA5FeQbgpmnDq+ejbkdfLOdo9uy7FSY82akmbxAiXq+V4fbg==}
     hasBin: true
 
   levn@0.4.1:
@@ -6825,7 +6825,7 @@ snapshots:
       eslint: 8.56.0
       eslint-import-resolver-node: 0.3.9
       eslint-import-resolver-typescript: 3.6.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.29.1(eslint@8.56.0))(eslint@8.56.0)
-      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-typescript@3.6.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.29.1(eslint@8.56.0))(eslint@8.56.0))(eslint@8.56.0)
+      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-typescript@3.6.1)(eslint@8.56.0)
       eslint-plugin-jsx-a11y: 6.8.0(eslint@8.56.0)
       eslint-plugin-react: 7.34.2(eslint@8.56.0)
       eslint-plugin-react-hooks: 4.6.2(eslint@8.56.0)
@@ -6853,7 +6853,7 @@ snapshots:
       enhanced-resolve: 5.17.0
       eslint: 8.56.0
       eslint-module-utils: 2.8.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-node@0.3.9)(eslint-import-resolver-typescript@3.6.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.29.1(eslint@8.56.0))(eslint@8.56.0))(eslint@8.56.0)
-      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-typescript@3.6.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.29.1(eslint@8.56.0))(eslint@8.56.0))(eslint@8.56.0)
+      eslint-plugin-import: 2.29.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-typescript@3.6.1)(eslint@8.56.0)
       fast-glob: 3.3.2
       get-tsconfig: 4.7.5
       is-core-module: 2.13.1
@@ -6875,7 +6875,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  eslint-plugin-import@2.29.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-typescript@3.6.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-node@0.3.9)(eslint-plugin-import@2.29.1(eslint@8.56.0))(eslint@8.56.0))(eslint@8.56.0):
+  eslint-plugin-import@2.29.1(@typescript-eslint/parser@6.21.0(eslint@8.56.0)(typescript@5.3.3))(eslint-import-resolver-typescript@3.6.1)(eslint@8.56.0):
     dependencies:
       array-includes: 3.1.8
       array.prototype.findlastindex: 1.2.5
@@ -7651,40 +7651,40 @@ snapshots:
 
   leac@0.6.0: {}
 
-  lefthook-darwin-arm64@1.6.15:
+  lefthook-darwin-arm64@1.7.12:
     optional: true
 
-  lefthook-darwin-x64@1.6.15:
+  lefthook-darwin-x64@1.7.12:
     optional: true
 
-  lefthook-freebsd-arm64@1.6.15:
+  lefthook-freebsd-arm64@1.7.12:
     optional: true
 
-  lefthook-freebsd-x64@1.6.15:
+  lefthook-freebsd-x64@1.7.12:
     optional: true
 
-  lefthook-linux-arm64@1.6.15:
+  lefthook-linux-arm64@1.7.12:
     optional: true
 
-  lefthook-linux-x64@1.6.15:
+  lefthook-linux-x64@1.7.12:
     optional: true
 
-  lefthook-windows-arm64@1.6.15:
+  lefthook-windows-arm64@1.7.12:
     optional: true
 
-  lefthook-windows-x64@1.6.15:
+  lefthook-windows-x64@1.7.12:
     optional: true
 
-  lefthook@1.6.15:
+  lefthook@1.7.12:
     optionalDependencies:
-      lefthook-darwin-arm64: 1.6.15
-      lefthook-darwin-x64: 1.6.15
-      lefthook-freebsd-arm64: 1.6.15
-      lefthook-freebsd-x64: 1.6.15
-      lefthook-linux-arm64: 1.6.15
-      lefthook-linux-x64: 1.6.15
-      lefthook-windows-arm64: 1.6.15
-      lefthook-windows-x64: 1.6.15
+      lefthook-darwin-arm64: 1.7.12
+      lefthook-darwin-x64: 1.7.12
+      lefthook-freebsd-arm64: 1.7.12
+      lefthook-freebsd-x64: 1.7.12
+      lefthook-linux-arm64: 1.7.12
+      lefthook-linux-x64: 1.7.12
+      lefthook-windows-arm64: 1.7.12
+      lefthook-windows-x64: 1.7.12
 
   levn@0.4.1:
     dependencies:
